@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MCP servers",
+    "description": "Sidebar MCP panel: lists every MCP server configured in this profile with its transport and endpoint, and switches each one."
+  }
+}
